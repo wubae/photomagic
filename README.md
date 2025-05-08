@@ -35,11 +35,11 @@ Example:
 ```
 
 ### Screenshots
-Input Image
+#### Input Image
 ![Input File](/input-file.png)
 
-Decoding
+#### Decoding
 ![Decoding](/decoding_screenshot.png)
 
-Encoding
+#### Encoding
 ![Encoding](/encoding_screenshot.png)
