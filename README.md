@@ -36,14 +36,8 @@ Example:
 
 ### Screenshots
 
-Input File
-
 ![Input File](/input-file.png)
 
-Decoding
-
 ![Decoding](/decoding_screenshot.png)
-
-Encoding
 
 [!Encoding](/encoding_screenshot.png)
